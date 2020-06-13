@@ -1,5 +1,5 @@
 # MAL-PTW-Sort
-Script to sort you MAL plan to watch list
+Script to sort your MAL plan to watch list by score
 
 Instructions:
 1. Export your anime list from https://myanimelist.net/panel.php?go=export
